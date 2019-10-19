@@ -1,0 +1,16 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\dialog.o
+./release\dialog1.o
+./release\dialog2.o
+./release\gamepanel.o
+./release\dialog3.o
+./release\qrc_snake.o
+./release\moc_mainwindow.o
+./release\moc_dialog.o
+./release\moc_dialog1.o
+./release\moc_dialog2.o
+./release\moc_gamepanel.o
+./release\moc_dialog3.o
+);
